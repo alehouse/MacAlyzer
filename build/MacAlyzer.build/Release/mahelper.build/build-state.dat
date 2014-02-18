@@ -1,0 +1,489 @@
+Tmahelper
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper normal i386
+cLd /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper normal x86_64
+cCreateUniversalBinary /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper normal x86_64\ i386
+cGenerateDSYMFile /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper.dSYM /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052822B6200000000000000AA
+t1384262498
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526C8246000000000000044C
+t1382842950
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526C824600000000000001DB
+t1382842950
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526C824700000000000C9E68
+t1382842951
+s826984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libpcap.dylib
+c00000000526C824B000000000000C280
+t1382842955
+s49792
+
+N/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m
+c000000005302AC7E0000000000001C67
+t1392684158
+s7271
+
+N/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m
+c000000005302AC7E00000000000007C5
+t1392684158
+s1989
+
+N/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m
+c000000005302AC7E00000000000008A3
+t1392684158
+s2211
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o
+t1392684220
+s29348
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o
+t1392684220
+s5500
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o
+t1392684220
+s21880
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o
+t1392684220
+s5224
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper
+t1392684220
+s31348
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper.LinkFileList
+c000000005302ACBC0000000000000226
+t1392684220
+s550
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o
+t1392684220
+s7452
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o
+t1392684220
+s48048
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o
+t1392684220
+s6596
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o
+t1392684220
+s30748
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o
+t1392684220
+s6216
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper
+t1392684220
+s39960
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper.LinkFileList
+c000000005302ACBC0000000000000230
+t1392684220
+s560
+
+N/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o
+t1392684220
+s8356
+
+N/Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper
+t1392684220
+s76404
+
+N/Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper.dSYM
+t2
+s0
+
+N/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m
+c000000005302AC7E00000000000014D4
+t1392684158
+s5332
+
+N/Volumes/SHARED/trough/MacAlyzer/mahelper/mahelper-Prefix.pch
+c000000005302AC7E000000000000009A
+t1392684158
+s154
+
+N/Volumes/SHARED/trough/MacAlyzer/mahelper/main.m
+c000000005302AC7E0000000000000960
+t1392684158
+s2400
+
+N/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.pch
+t1392684221
+s11258516
+
+N/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.pch
+t1392684221
+s10457868
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies57ea053de4b2b841^d0280d3de4b2b841^---0#1#1#--18"Check dependencies36"EB21A8B6-E0AB-4AD1-9DDE-3DAFDB19D349-
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.775813
+e414377021.840194
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o
+x/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m
+d/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.h
+d/Volumes/SHARED/trough/MacAlyzer/MAProtocols.h
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.h
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.h
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m193"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o [1mMACaptureDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4fadc63de4b2b841^2717d73de4b2b841^---0#0#1#-19%DVTDocumentLocation2@66"file://localhost/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m0000000000000000^2909"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o [1mMACaptureDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/i386 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.dia -c /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o36"8CA5646A-C2AA-4A2E-8025-E220D032FE85-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.744297
+e414377021.774612
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o
+x/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m185"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o [1mMacAlyzer/MADate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a98be3de4b2b841^4d4dc63de4b2b841^---0#0#1#-19%DVTDocumentLocation2@67"file://localhost/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m0000000000000000^2875"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o [1mMacAlyzer/MADate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/i386 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.dia -c /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o36"EFA39760-023A-4426-BDC0-0E5EA0377E2E-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.781212
+e414377021.832754
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o
+x/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.h
+d/Volumes/SHARED/trough/MacAlyzer/MAProtocols.h
+d/Volumes/SHARED/trough/MacAlyzer/ConfigurationConstants.h
+d/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m196"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o [1mmahelper/MAPCAPHelper.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler340fc83de4b2b841^8142d53de4b2b841^---0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m0000000000000000^2909"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o [1mmahelper/MAPCAPHelper.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/i386 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.dia -c /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o36"6CA5CBA4-7795-460F-9F6F-440778EE62CA-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.774239
+e414377021.803706
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o
+x/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m189"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o [1mMacAlyzer/MAString.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f48c63de4b2b841^9cbfcd3de4b2b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m0000000000000000^2887"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o [1mMacAlyzer/MAString.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/i386 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.dia -c /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o36"199F7A85-5DFA-4B3A-9CF8-B0BD08891F54-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.804973
+e414377021.832408
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o
+x/Volumes/SHARED/trough/MacAlyzer/mahelper/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/main.m
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.h
+d/Volumes/SHARED/trough/MacAlyzer/MAProtocols.h
+d/Volumes/SHARED/trough/MacAlyzer/ConfigurationConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m180"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o [1mmahelper/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0b26ce3de4b2b841^9e3fd53de4b2b841^---0#0#1#-19%DVTDocumentLocation2@64"file://localhost/Volumes/SHARED/trough/MacAlyzer/mahelper/main.m0000000000000000^2861"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o [1mmahelper/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/i386 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.dia -c /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o36"C70F31AE-8A16-473A-A4F6-C673244C38D6-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.701512
+e414377021.806542
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o
+x/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m
+d/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.h
+d/Volumes/SHARED/trough/MacAlyzer/MAProtocols.h
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.h
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.h
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m197"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o [1mMACaptureDevice.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera8abb33de4b2b841^ff79ce3de4b2b841^---0#0#1#-19%DVTDocumentLocation2@66"file://localhost/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m0000000000000000^2923"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o [1mMACaptureDevice.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.dia -c /Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o36"8CC77B8D-D20F-4F49-B333-EB229B3E3C9D-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.701492
+e414377021.742600
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o
+x/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m189"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o [1mMacAlyzer/MADate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler82a8b33de4b2b841^d21bbe3de4b2b841^---0#0#1#-19%DVTDocumentLocation2@67"file://localhost/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m0000000000000000^2889"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o [1mMacAlyzer/MADate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.dia -c /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MADate.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o36"D75F71C9-3FB5-4D79-870B-1A7BDB9E78B2-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.701506
+e414377021.776504
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o
+x/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.h
+d/Volumes/SHARED/trough/MacAlyzer/MAProtocols.h
+d/Volumes/SHARED/trough/MacAlyzer/ConfigurationConstants.h
+d/Volumes/SHARED/trough/MacAlyzer/MACaptureDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m200"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o [1mmahelper/MAPCAPHelper.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler93a8b33de4b2b841^e5d0c63de4b2b841^---0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m0000000000000000^2923"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o [1mmahelper/MAPCAPHelper.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.dia -c /Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o36"612BBF8D-42C2-43BA-9756-F61BD888CE43-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.701479
+e414377021.742893
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o
+x/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m
+d/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m193"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o [1mMacAlyzer/MAString.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera4a8b33de4b2b841^2637be3de4b2b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m0000000000000000^2901"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o [1mMacAlyzer/MAString.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.dia -c /Volumes/SHARED/trough/MacAlyzer/MacAlyzer/MAString.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o36"9C0CC511-88D1-4BDA-9767-778F56A0A820-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCompileC build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.743877
+e414377021.772649
+r1
+xCompileC
+xbuild/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o
+x/Volumes/SHARED/trough/MacAlyzer/mahelper/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/main.m
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/MAPCAPHelper.h
+d/Volumes/SHARED/trough/MacAlyzer/MAProtocols.h
+d/Volumes/SHARED/trough/MacAlyzer/ConfigurationConstants.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m184"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o [1mmahelper/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a80be3de4b2b841^7fddc53de4b2b841^---0#0#1#-19%DVTDocumentLocation2@64"file://localhost/Volumes/SHARED/trough/MacAlyzer/mahelper/main.m0000000000000000^2875"[1mCompileC[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o [1mmahelper/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.dia -c /Volumes/SHARED/trough/MacAlyzer/mahelper/main.m -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o36"6FFEB87F-E7FA-4FDE-BFD0-EF2AA6115A9C-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CCreateUniversalBinary /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper normal x86_64\ i386
+s414377021.906958
+e414377021.918245
+r1
+xCreateUniversalBinary
+x/Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper
+xnormal
+xx86_64 i386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Create universal binary /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper80"[1mCreateUniversalBinary[0m [1mbuild/Release/mahelper[0m normal x86_64\ i386c43fe83de4b2b841^9012eb3de4b2b841^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper00389865dcffdf42^418"[1mCreateUniversalBinary[0m [1mbuild/Release/mahelper[0m normal x86_64\ i386    cd /Volumes/SHARED/trough/MacAlyzer    lipo -create /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper -output /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper36"7139EDE1-23FE-4D4F-9BEF-EF8C62A79173-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CGenerateDSYMFile /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper.dSYM /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper
+s414377021.926370
+e414377021.944178
+r1
+xGenerateDSYMFile
+x/Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper.dSYM
+x/Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Generate /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper.dSYM83"[1mGenerateDSYMFile[0m [1mbuild/Release/mahelper.dSYM[0m build/Release/mahelper5132ed3de4b2b841^fab5f13de4b2b841^---0#0#1#-19%DVTDocumentLocation2@76"file://localhost/Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper.dSYM00389865dcffdf42^344"[1mGenerateDSYMFile[0m [1mbuild/Release/mahelper.dSYM[0m build/Release/mahelper    cd /Volumes/SHARED/trough/MacAlyzer    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper -o /Volumes/SHARED/trough/MacAlyzer/build/Release/mahelper.dSYM36"C5F5228E-858C-4C06-B455-625D2503D1C0-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CLd /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper normal i386
+s414377021.848420
+e414377021.899029
+r1
+xLd
+x/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper
+xnormal
+xi386
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper.LinkFileList
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MADate.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAString.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MACaptureDevice.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/MAPCAPHelper.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libpcap.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper96"[1mLd[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper normal i3866c3fd93de4b2b841^0727e63de4b2b841^---0#0#1#--970"[1mLd[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper normal i386    cd /Volumes/SHARED/trough/MacAlyzer    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/SHARED/trough/MacAlyzer/build/Release -F/Volumes/SHARED/trough/MacAlyzer/build/Release -filelist /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper.LinkFileList -mmacosx-version-min=10.8 -fobjc-link-runtime -lpcap -framework Foundation -Xlinker -dependency_info -Xlinker /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper_dependency_info.dat -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/i386/mahelper36"9D4B946D-70A0-4314-B2CF-98EECBB2AE20-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CLd /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper normal x86_64
+s414377021.848422
+e414377021.892884
+r1
+xLd
+x/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper
+xnormal
+xx86_64
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper.LinkFileList
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MADate.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAString.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MACaptureDevice.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/MAPCAPHelper.o
+d/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libpcap.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper100"[1mLd[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper normal x86_645740d93de4b2b841^4f94e43de4b2b841^---0#0#1#--982"[1mLd[0m build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper normal x86_64    cd /Volumes/SHARED/trough/MacAlyzer    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/SHARED/trough/MacAlyzer/build/Release -F/Volumes/SHARED/trough/MacAlyzer/build/Release -filelist /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper.LinkFileList -mmacosx-version-min=10.8 -fobjc-link-runtime -lpcap -framework Foundation -Xlinker -dependency_info -Xlinker /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper_dependency_info.dat -o /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/Objects-normal/x86_64/mahelper36"9BC6385D-9108-4998-898B-58210CE711E4-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.055643
+e414377021.693147
+r1
+xProcessPCH
+x/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.pch
+xmahelper/mahelper-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/mahelper-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile mahelper/mahelper-Prefix.pch302"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3c4d0e3de4b2b841^7e71b13de4b2b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/trough/MacAlyzer/mahelper/mahelper-Prefix.pch0000000000000000^3053"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/i386 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release --serialize-diagnostics /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.d -c /Volumes/SHARED/trough/MacAlyzer/mahelper/mahelper-Prefix.pch -o /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-bmylkxkmdjuaiqduhxpcojcqzyka/mahelper-Prefix.pch.pch36"F92ACA0E-BCD8-4374-96B5-2C05D10B8FCE-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
+CProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377021.054347
+e414377021.632027
+r1
+xProcessPCH
+x/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.pch
+xmahelper/mahelper-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/MacAlyzer/mahelper/mahelper-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile mahelper/mahelper-Prefix.pch304"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler29040e3de4b2b841^58cba13de4b2b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/trough/MacAlyzer/mahelper/mahelper-Prefix.pch0000000000000000^3059"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.pch mahelper/mahelper-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/MacAlyzer    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-generated-files.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-own-target-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-all-target-headers.hmap -iquote /Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/mahelper-project-headers.hmap -I/Volumes/SHARED/trough/MacAlyzer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/MacAlyzer/build/MacAlyzer.build/Release/mahelper.build/DerivedSources -F/Volumes/SHARED/trough/MacAlyzer/build/Release --serialize-diagnostics /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.d -c /Volumes/SHARED/trough/MacAlyzer/mahelper/mahelper-Prefix.pch -o /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/mahelper-Prefix-grjkerpagrgdeqabhyxcnypbknfk/mahelper-Prefix.pch.pch36"D14C0D67-5867-4294-8BAD-17B5A9AB05E8-
+b2D7700A1-D76B-410B-A614-FD8809A0DA3E
+
